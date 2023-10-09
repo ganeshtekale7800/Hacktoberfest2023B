@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS `login` (
 ) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=3 ;
 
 --
--- Dumping data for table `login`
+-- Dumping data for table ....`login`
 --
 
 INSERT INTO `login` (`id`, `usname`, `pass`) VALUES

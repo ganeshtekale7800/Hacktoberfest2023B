@@ -7,7 +7,7 @@
 -- Server version: 5.6.20
 -- PHP Version: 5.5.15
 
-SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";  /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;           
 SET time_zone = "+00:00";
 
 

@@ -38,7 +38,7 @@ CREATE TABLE IF NOT EXISTS `contact` (
 -- --------------------------------------------------------
 
 --
--- Table structure for table `login`
+-- Table structure for table `logi...n`
 --
 
 CREATE TABLE IF NOT EXISTS `login` (

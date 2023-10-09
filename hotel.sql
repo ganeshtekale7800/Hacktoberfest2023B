@@ -36,7 +36,7 @@ CREATE TABLE IF NOT EXISTS `contact` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
 
 -- --------------------------------------------------------
-
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 --
 -- Table structure for table `login`
 --

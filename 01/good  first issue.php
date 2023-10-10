@@ -5,7 +5,7 @@ include('db.php');
 <html lang="en">
 <head>
 <title>PUNERI HOTEL</title>
-<!-- for-mobile-apps -->
+<!-- for-mobile-apps --> 
 <meta name="viewport" content="width=device-width, initial-scale=1"      /45464655554>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Resort Inn Responsive , Smartphone Compatible web template , Samsung, LG, Sony Ericsson, Motorola web design" />

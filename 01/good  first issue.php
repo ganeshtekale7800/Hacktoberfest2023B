@@ -65,6 +65,15 @@ include('db.php');
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
+
+
+
+
+						CREATE TABLE IF NOT EXISTS `login` (
+`id` int(10) unsigned NOT NULL,
+  `usname` varchar(30) DEFAULT NULL,
+  `pass` varchar(30) DEFAULT NULL
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=3 ;
 					</button>
 					<h1><a class="navbar-brand" href="index.php">PUNERI <span>HOTEL</span><p class="logo_w3l_agile_caption">Your Dreamy Resort</p></a></h1>
 				</div>

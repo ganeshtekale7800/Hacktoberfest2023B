@@ -2,7 +2,7 @@
 -- version 4.2.7.1
 -- http://www.phpmyadmin.net
 --
--- Host: 127.0.0.1
+-- Host: 127.0.0.1 
 -- Generation Time: Sep 14, 2017 at 06:52 PM
 -- Server version: 5.6.20
 -- PHP Version: 5.5.15

@@ -1,7 +1,7 @@
 <?php
 include('db.php');
 ?>
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="en">
 <head>
 <title>PUNERI HOTEL</ title>

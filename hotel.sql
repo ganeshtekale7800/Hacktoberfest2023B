@@ -32,7 +32,7 @@ CREATE TABLE IF NOT EXISTS `contact` (
   `phoneno` int(10) DEFAULT NULL,
   `email` text,
   `cdate` date DEFAULT NULL,
-  `approval` varchar(12) DEFAULT NULL
+  `approval` varchar(12) DEFAULT NULL 
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
 
 -- --------------------------------------------------------

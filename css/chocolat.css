@@ -28,7 +28,7 @@ body{
 }
 #Choco_left_arrow{
 	float:left;
-	background-image:url(../images/leftw.gif)!important;
+	background-image:url(../images/leftw.gif)!important; 
 	background-position:12%;
 	left:-2%;
 }

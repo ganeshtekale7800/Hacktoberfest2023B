@@ -3,7 +3,7 @@ body{
 	padding:0;
 }
 #Choco_overlay{
-	background:rgba(0, 0, 0, 0.9) !important;
+	background:rgba(0, 0,  0, 0.9) !important;
 	position: fixed;
 	top: 0;
 	left: 0; 

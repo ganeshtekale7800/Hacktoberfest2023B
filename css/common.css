@@ -35,7 +35,7 @@
 	content: '';
     display: table;
 }
-
+ 
 .ch-grid:after {
 	clear: both;
 }

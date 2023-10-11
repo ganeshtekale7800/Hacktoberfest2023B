@@ -73,7 +73,7 @@ CREATE TABLE IF NOT EXISTS `newsletterlog` (
 --
 -- Table structure for table `payment`
 --
-
+    
 CREATE TABLE IF NOT EXISTS `payment` (
   `id` int(11) DEFAULT NULL,
   `title` varchar(5) DEFAULT NULL,

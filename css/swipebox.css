@@ -3,7 +3,7 @@ html.swipebox-html.swipebox-touch {
   overflow: hidden !important;
 }
 
-#swipebox-overlay img {
+#swipebox-overlay  img {
   border: none !important;
 }
 

@@ -23,7 +23,7 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
--- Table structure for table `contact`
+-- Table structure for table  `contact`
 --
 
 CREATE TABLE IF NOT EXISTS `contact` (

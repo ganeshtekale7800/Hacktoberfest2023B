@@ -11,7 +11,7 @@ include('db.php');
 <meta name="keywords" content="Resort Inn Responsive , Smartphone Compatible web template , Samsung, LG, Sony Ericsson, Motorola web design" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
-<!-- //for-mobile-apps -->
+<!-- //for-mobile -apps -->
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/font-awesome.css" rel="stylesheet"> 
 <link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen">

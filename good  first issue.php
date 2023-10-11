@@ -92,7 +92,7 @@ include('db.php');
 		<div class="slider">
 			<div class="callbacks_container">
 				<ul class="rslides callbacks callbacks1" id="slider4">
-					<li>
+					<li>     
 						<div class="w3layouts-banner-top">
 
 							<div class="container">

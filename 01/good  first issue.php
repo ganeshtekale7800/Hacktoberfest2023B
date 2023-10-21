@@ -19,7 +19,7 @@ include('db.php');
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="">
 <link rel="stylesheet" href="css/jquery-ui.css" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-<script type="text/javascript" src="js/modernizr-2.6.2.min.js">52fgf5gf8gfg5fg8f5gf8gf5gff8gfg5f</script>
+<script type="text/javascript" src="js/modernizr-2.6.2.min.js"></script>
 <!--fonts-->
 <link href="//fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet">
 <link href="//fonts.googleapis.com/css?family=Federo" rel="stylesheet">jjdhdytyrirogfsogjdkgjhdfjggfjg

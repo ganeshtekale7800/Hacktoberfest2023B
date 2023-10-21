@@ -17,7 +17,7 @@ include('db.php');
 <link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen">
 <link href="css/easy-responsive-tabs.css" rel='stylesheet' type='text/css'/>
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="">
-<link rel="stylesheet" href="css/jquery-ui.css" />ghfghfgf5g8g5g88f5gfggf5f5
+<link rel="stylesheet" href="css/jquery-ui.css" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <script type="text/javascript" src="js/modernizr-2.6.2.min.js">52fgf5gf8gfg5fg8f5gf8gf5gff8gfg5f</script>
 <!--fonts-->

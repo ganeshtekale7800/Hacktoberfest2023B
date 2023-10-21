@@ -7,7 +7,7 @@ include('db.php');
 <title>PUNERI HOTEL</title>
 <!-- for-mobile-apps --> 
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />ganeshtekalefkhdfjgs
 <meta name="keywords" content="Resort Inn Responsive , Smartphone Compatible web template , Samsung, LG, Sony Ericsson, Motorola web design" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
@@ -17,12 +17,12 @@ include('db.php');
 <link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen">
 <link href="css/easy-responsive-tabs.css" rel='stylesheet' type='text/css'/>
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="">
-<link rel="stylesheet" href="css/jquery-ui.css" />
+<link rel="stylesheet" href="css/jquery-ui.css" />ghfghfgf5g8g5g88f5gfggf5f5
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-<script type="text/javascript" src="js/modernizr-2.6.2.min.js"></script>
+<script type="text/javascript" src="js/modernizr-2.6.2.min.js">52fgf5gf8gfg5fg8f5gf8gf5gff8gfg5f</script>
 <!--fonts-->
 <link href="//fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet">
-<link href="//fonts.googleapis.com/css?family=Federo" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Federo" rel="stylesheet">jjdhdytyrirogfsogjdkgjhdfjggfjg
 <link href="//fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet"/5464656523231>
 <!--//fonts-->
 </head>
